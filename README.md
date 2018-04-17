@@ -9,11 +9,11 @@ Community information and collaboration.
 
 If you stream code, please add yourself below with your **Twitch** `name` and link to your **Twitch** account, with your main area of focus.
 
-| Name | Focus | Github | When |
-| :--- | :--- | :--- | :--- |
+| Name | Focus | Github | When | Website |
+| :--- | :--- | :--- | :--- | :--- |
 | [EddieJaoude](http://twitch.tv/eddiejaoude) | Open Source & [DashboardHub](http://github.com/DashboardHub/PipelineDashboard) | [EddieJaoude](http://github.com/eddiejaoude) | Week days 530pm BST |
 | [Venzra](http://twitch.tv/venzra) | Open Soure & Venzra | [Andrew-Cunliffe](https://github.com/Andrew-Cunliffe) | Week days 9pm BST week days |
-| [ThisModernDay](http://twitch.tv/thismodernday) | Open Source & Discord bots | [BrandonLeffew](https://github.com/BrandonLeffew) | Sunday 2-6pm EST |
+| [ThisModernDay](http://twitch.tv/thismodernday) | Open Source & Discord bots | [BrandonLeffew](https://github.com/BrandonLeffew) | Sunday 2-6pm EST | [ThisModernDay.net](http://www.thismodernday.net)
 | [Evbrink](http://twitch.tv/evbrink) | Open Source & Learning to code | [EvelinaBrink](https://github.com/Evelinabrink) | Late CET |
 | [Suceec](http://twitch.tv/suceec) | Open Source & Learning to code | [SusieCee](https://github.com/susiecee) | ??? |
 
